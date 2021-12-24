@@ -1,5 +1,5 @@
-data: {
-    title: 'foo',
-    body: 'bar',
-    userId: 1
+{
+  "squadName": "Super hero squad",
+  "homeTown": "Metro City",
+  "formed": 2016
 }
